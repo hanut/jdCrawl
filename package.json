@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^0.20.0",
-    "request": "^2.69.0",
-    "xlsx": "^0.8.0"
+    "mongoose": "^4.4.9",
+    "request": "^2.69.0"
   }
 }
